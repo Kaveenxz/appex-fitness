@@ -66,7 +66,7 @@ export default function About() {
             <span className="text-apex-red">A MOVEMENT.</span>
           </h2>
           <p className="font-body text-apex-white-dim text-base leading-relaxed mb-6">
-            Since 2018, APEX FITNESS has been redefining what a gym can be in Sri Lanka. We're not here to simply offer memberships — we&apos;re here to transform lives. Our facility was designed from the ground up for serious athletes and first-timers alike, with a culture of relentless improvement at its core.
+            Since 2018, APEX FITNESS has been redefining what a gym can be in Sri Lanka. We&apos;re not here to simply offer memberships — we&apos;re here to transform lives. Our facility was designed from the ground up for serious athletes and first-timers alike, with a culture of relentless improvement at its core.
           </p>
           <p className="font-body text-apex-white-dim text-base leading-relaxed mb-8">
             Every machine, every coach, every class has been curated with one goal in mind: to help you reach the apex of your potential.
