@@ -72,7 +72,7 @@ export default function Testimonials() {
             <Quote className="w-12 h-12 text-apex-red/30 mb-6" fill="currentColor" />
 
             <p className="font-body text-base text-apex-white leading-relaxed mb-8 italic">
-              "{current.text}"
+              {current.text}
             </p>
 
             {/* Stars */}

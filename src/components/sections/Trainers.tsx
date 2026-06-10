@@ -78,7 +78,7 @@ export default function Trainers() {
             MEET YOUR<br /><span className="text-apex-red">COACHES</span>
           </h2>
           <p className="font-body text-apex-white-dim text-base max-w-lg mx-auto">
-            Every coach at APEX is a certified expert and a proven performer. They don't just train — they inspire.
+            Every coach at APEX is a certified expert and a proven performer. They don&apos;t just train — they inspire.
           </p>
         </div>
 

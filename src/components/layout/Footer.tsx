@@ -31,7 +31,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="font-body text-apex-white-dim text-sm leading-relaxed mb-6 max-w-xs">
-              Sri Lanka's most elite fitness destination. We don't just build bodies — we forge champions.
+              Sri Lanka&apos;s most elite fitness destination. We don&apos;t just build bodies — we forge champions.
             </p>
 
             {/* Contact info */}

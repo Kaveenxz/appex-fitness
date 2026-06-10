@@ -20,10 +20,10 @@ export default function Contact() {
         <div className="text-center mb-16">
           <p className="section-label mb-4">Get In Touch</p>
           <h2 className="font-display text-[clamp(2.5rem,5vw,4.5rem)] leading-none tracking-wide mb-4">
-            LET'S TALK<br /><span className="text-apex-red">ABOUT YOUR GOALS</span>
+            LET&apos;S TALK<br /><span className="text-apex-red">ABOUT YOUR GOALS</span>
           </h2>
           <p className="font-body text-apex-white-dim text-base max-w-lg mx-auto">
-            Whether you're ready to join, want a tour, or need advice — our team is here. No pressure, no sales scripts. Just honest answers.
+            Whether you&apos;re ready to join, want a tour, or need advice — our team is here. No pressure, no sales scripts. Just honest answers.
           </p>
         </div>
 
@@ -109,7 +109,7 @@ export default function Contact() {
                     onChange={(e) => setForm({ ...form, interest: e.target.value })}
                     className={`${inputClass} cursor-pointer`}
                   >
-                    <option value="" className="bg-apex-black">I'm interested in...</option>
+                    <option value="" className="bg-apex-black">I&apos;m interested in...</option>
                     <option value="membership" className="bg-apex-black">Membership</option>
                     <option value="pt" className="bg-apex-black">Personal Training</option>
                     <option value="classes" className="bg-apex-black">Group Classes</option>
@@ -138,7 +138,7 @@ export default function Contact() {
                 <CheckCircle className="w-16 h-16 text-apex-red mb-6" />
                 <h3 className="font-display text-3xl tracking-wide text-apex-white mb-3">Message Received!</h3>
                 <p className="font-body text-apex-white-dim text-sm leading-relaxed max-w-xs">
-                  We'll get back to you within 24 hours. In the meantime, follow us on Instagram for daily motivation.
+                  We&apos;ll get back to you within 24 hours. In the meantime, follow us on Instagram for daily motivation.
                 </p>
                 <button
                   onClick={() => setSubmitted(false)}

@@ -79,7 +79,7 @@ export default function Hero() {
             className="font-body text-apex-white-dim text-lg md:text-xl max-w-xl mb-10 leading-relaxed animate-fade-up"
             style={{ animationDelay: "0.45s" }}
           >
-            Sri Lanka's most elite fitness facility. World-class equipment, expert coaching, and a community that never settles for second place.
+            Sri Lanka&apos;s most elite fitness facility. World-class equipment, expert coaching, and a community that never settles for second place.
           </p>
 
           {/* CTA Buttons */}
