@@ -101,7 +101,7 @@ export default function Programs() {
             </h2>
           </div>
           <p className="font-body text-apex-white-dim max-w-xs text-sm leading-relaxed">
-            Whether you're chasing strength, endurance, or total transformation — we have the program and coaches to get you there.
+            Whether you&apos;re chasing strength, endurance, or total transformation — we have the program and coaches to get you there.
           </p>
         </div>
 
